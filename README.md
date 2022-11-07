@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Benyamain, currently in works of attaining a CS degree at college.
+- 👀 I’m interested in mobile app development, game development, and AI research.
+- 💞️ I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
+- 📫 Contact me at yacoobbenyamain@gmail.com
