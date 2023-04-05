@@ -1,4 +1,4 @@
-- <img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+- <img src=”https://user-images.githubusercontent.com/89230606/230239042-0191469e-d077-466c-b938-78a1ce9e4ac0.png" alt=”my banner”>
 - 👋 Hello to whoever is reading this! My name is Ben and I am currently in works of attaining a CS degree at college.
 - 👀 I’m interested in mobile app development, game development, and AI research.
 - 💞️ I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
