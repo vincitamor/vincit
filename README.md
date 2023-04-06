@@ -14,6 +14,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                  
 
-[![Benyamain’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Benyamain&show_icons=true&theme=radical)](https://github.com/Benyamain)
+[![Benyamain’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Benyamain&show_icons=true&theme=merko)](https://github.com/Benyamain)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benyamain&layout=compact)](https://github.com/Benyamain)                                                                                                                                       
