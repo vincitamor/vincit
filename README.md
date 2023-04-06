@@ -1,6 +1,7 @@
 <p align=”center”>
 <img width=”200" height=”200" src=”https://user-images.githubusercontent.com/89230606/230239042-0191469e-d077-466c-b938-78a1ce9e4ac0.png" alt=”my banner”>
-</p>                                                                                                                                  
+</p>
+                                                                                                                                         
 - 👋 Hello to whoever is reading this! My name is Ben and I am currently in works of attaining a CS degree at college.
 - 👀 I’m interested in mobile app development, game development, and AI research.
 - 💞️ I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
@@ -9,4 +10,4 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                                                                                         
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                  
