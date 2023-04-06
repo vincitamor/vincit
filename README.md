@@ -16,4 +16,4 @@
 
 [![Benyamain’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Benyamain&show_icons=true&theme=merko)](https://github.com/Benyamain)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benyamain&layout=compact)](https://github.com/Benyamain)                                                                                                                                       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=merko)](https://github.com/Benyamain)                                                                                                                                       
