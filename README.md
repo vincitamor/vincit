@@ -6,10 +6,10 @@
                                                                                                                                          
 - 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
 - 👀 I’m interested in mobile app development, game development, and AI research.
-- 💞️ I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
+- :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
 ## :mailbox: Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/benyamain-yacoob-40a60421b/)
-- [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqszlgWwLwmSWWfLWZlMBJhbdSpRNMcKNhFQQRDGxbSnKRSvlztLLGvvrXMFGMqRFdRxB)
+- :handshake: [LinkedIn](https://www.linkedin.com/in/benyamain-yacoob-40a60421b/)
+- :email: [Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqszlgWwLwmSWWfLWZlMBJhbdSpRNMcKNhFQQRDGxbSnKRSvlztLLGvvrXMFGMqRFdRxB)
 ## :hourglass_flowing_sand: Experience  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
