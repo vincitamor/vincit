@@ -4,7 +4,7 @@
                                                                                                                                          
 </p>
                                                                                                                                          
-- 👋 Hello to whoever is reading this! My name is Ben and I am currently in works of attaining a CS degree at college.
+- 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
 - 👀 I’m interested in mobile app development, game development, and AI research.
 - 💞️ I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
 - 📫 Contact me at yacoobbenyamain@gmail.com or on my LinkedIn profile, https://www.linkedin.com/in/benyamain-yacoob-40a60421b/    
@@ -18,5 +18,5 @@
 [![Benyamain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
-## Personal Website
+## Connect With Me
 https://www.benyacoob.com/
