@@ -10,7 +10,7 @@
 - 📫 Contact me at yacoobbenyamain@gmail.com or on my LinkedIn profile, https://www.linkedin.com/in/benyamain-yacoob-40a60421b/
 ## Connect With Me
 [LinkedIn](https://www.linkedin.com/in/benyamain-yacoob-40a60421b/)
-[Email](yacoobbenyamain@gmail.com)
+[Email](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJNqszlgWwLwmSWWfLWZlMBJhbdSpRNMcKNhFQQRDGxbSnKRSvlztLLGvvrXMFGMqRFdRxB)
 ## Experience  
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
