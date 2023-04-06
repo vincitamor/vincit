@@ -6,7 +6,7 @@
                                                                                                                                          
 <p align="center">
   
-👋 Hello to whoever is reading this! My name is Ben and I am currently in works of attaining a CS degree at college.
+###👋 Hello to whoever is reading this! My name is Ben and I am currently in works of attaining a CS degree at college.
                                                                                                                                          
 </p>
 - 👀 I’m interested in mobile app development, game development, and AI research.
