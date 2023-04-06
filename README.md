@@ -17,6 +17,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                  
 ## :chart_with_upwards_trend: Stats  
-[![Benyamain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
+[![Ben's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
