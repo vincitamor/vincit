@@ -16,7 +16,8 @@
 ![Java](https://img.shields.io/badge/java-%2307405e.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%2307405e.svg?style=for-the-badge&logo=firebase&logoColor=white) 
 
 ## :chart_with_upwards_trend: Stats  
 [![Ben's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
