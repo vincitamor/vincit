@@ -11,11 +11,13 @@
 - :handshake: [LinkedIn](https://www.linkedin.com/in/benyamain-yacoob-40a60421b/)
 - :email: [Email](https://mail.google.com/mail/u/0/?fs=1&to=yacoobbenyamain@gmail.com&su=Subject&body=Body&tf=cm)
 ## :hourglass_flowing_sand: Experience  
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%2307405e.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2307405e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%2307405e.svg?style=for-the-badge&logo=java&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)                                                                  
+![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+
 ## :chart_with_upwards_trend: Stats  
 [![Ben's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
 <br />
