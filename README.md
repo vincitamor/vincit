@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Template News Site](https://github.com/vincitamor/news-site-proj)
 
-- 🌱 I’m currently learning **HTML, CSS, and JS with 100Devs.**
+- 🌱 I’m currently learning **HTML, CSS, and JS with the 100Devs bootcamp.**
 
-- 🤝 I’m looking to collaborate on **Any project!**
+- 🤝 I’m looking to collaborate on **any project!**
 
-- ⚡ Fun fact **I have 2 awesome dogs!**
+- ⚡ Fun fact **I have 2 awesome dogs!(Pictures link coming soon...!)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
