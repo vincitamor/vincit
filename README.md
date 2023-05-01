@@ -1,27 +1,25 @@
-<p align="center">
-  
-<img src="https://user-images.githubusercontent.com/89230606/230239042-0191469e-d077-466c-b938-78a1ce9e4ac0.png" alt="my banner">
-                                                                                                                                         
-</p>
-                                                                                                                                         
-- 👋 Hello to whoever is reading this! My name is [Ben](https://www.benyacoob.com/) and I am currently in works of attaining a CS degree at college.
-- 👀 I’m interested in mobile app development, game development, and AI research.
-- :briefcase: I’m looking to collaborate on projects that mention my interests above or any other interesting project ideas!
-## :mailbox: Connect With Me
-- :handshake: [LinkedIn](https://www.linkedin.com/in/benyamain-yacoob-40a60421b/)
-- :email: [Email](https://mail.google.com/mail/u/0/?fs=1&to=yacoobbenyamain@gmail.com&su=Subject&body=Body&tf=cm)
-## :hourglass_flowing_sand: Experience  
-![Kotlin](https://img.shields.io/badge/kotlin-%2307405e.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2307405e.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%2307405e.svg?style=for-the-badge&logo=java&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2307405e.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%2307405e.svg?style=for-the-badge&logo=firebase&logoColor=white) 
+<h1 align="center">Hi 👋, I'm George!</h1>
+<h3 align="center">I am passionate about learning Web Development.</h3>
 
-## :chart_with_upwards_trend: Stats  
-[![Ben's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Benyamain&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
-<br />
-[![Ben's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Benyamain&theme=tokyonight)](https://git.io/streak-stats)
-<br />
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Benyamain&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/Benyamain)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincitamor" alt="vincitamor" /></a> </p>
+
+- 🔭 I’m currently working on [Template News Site](https://github.com/vincitamor/news-site-proj)
+
+- 🌱 I’m currently learning **HTML, CSS, and JS with 100Devs.**
+
+- 🤝 I’m looking to collaborate on **Any project!**
+
+- ⚡ Fun fact **I have 2 awesome dogs!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vincitamor&show_icons=true&locale=en&layout=compact" alt="vincitamor" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vincitamor&show_icons=true&locale=en" alt="vincitamor" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vincitamor&" alt="vincitamor" /></p>
