@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm George!</h1>
 <h3 align="center">I am passionate about learning Web Development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincitamor" alt="vincitamor" /></a> </p>
-
 - 🔭 I’m currently working on [Template News Site](https://github.com/vincitamor/news-site-proj)
 
 - 🌱 I’m currently learning **HTML, CSS, and JS with 100Devs.**
