@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking to collaborate on **any project!**
 
-- ⚡ Fun fact **I have 2 awesome dogs!(Pictures link coming soon...!)**
+- ⚡ Fun fact **I have 2 awesome dogs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
